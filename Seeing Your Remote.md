@@ -21,4 +21,5 @@ It allows you to show which remotes are currently connected, but also to add new
 
     Renames the remote connection.
     
-    > Roses are [red and **bold**]{color="red"} and
+ 
+ 
