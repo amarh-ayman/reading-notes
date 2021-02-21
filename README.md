@@ -77,7 +77,7 @@ these success people have  a passion for learning, talk to them and learn ,the g
 
 
 
-   - REMNDER:  :bangbang:
+   - REMNDER:  :bangbang:  😇
         - Growth Mindset in short is getting out of the box , don’t shame of learning so ask and search , don’t stop and give up  :muscle: ;focus take breath and think 
 Don’t fight other success people , fight your self to improve your self  :ok_woman:
 
