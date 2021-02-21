@@ -1,6 +1,8 @@
-# growth mindset
+# GROWTH MINDSET
+
 
 ![GitHub Logo](https://g.foolcdn.com/editorial/images/502630/gettyimages-956031274.jpg)
+
 
 A growth mindset is simply the belief that our basic abilities can be developed and improved through dedication and hard work. 
 It's just that without a growth mindset, we don't exert the required effort and so we remain perpetually stuck.
