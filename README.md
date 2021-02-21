@@ -27,7 +27,7 @@ And because we’re always trying new things, we often don’t know what we’re
     - don’t make jealous blind you, 
 these success people have  a passion for learning, talk to them and learn ,the growth mindset encourages you to see the success of coworkers as an inspiration
 
- ## Ways to Develop a Growth Mindset:
+## Ways to Develop a Growth Mindset:
  
 1. Acknowledge and embrace imperfection
 
