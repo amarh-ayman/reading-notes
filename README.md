@@ -73,14 +73,15 @@ these success people have  a passion for learning, talk to them and learn ,the g
  don’t make jealous blind you, these success people have  a passion for learning, talk to them and learn ,the growth mindset encourages you to see the success of coworkers as an inspiration.**
 
 
-😆
 
 
 
-   - REMNDER:  :bangbang:  😇
-        - Growth Mindset in short is getting out of the box , don’t shame of learning so ask and search , don’t stop and give up  :muscle: ;focus take breath and think 
-Don’t fight other success people , fight your self to improve your self  :ok_woman:
+
+
+   - REMNDER:  📣
+        - Growth Mindset in short is getting out of the box , don’t shame of learning so ask and search , don’t stop and give up  💪🏻  ;focus take breath and think 
+Don’t fight other success people , fight your self to improve your self  
 
 
 
-:octocat: This site was built using [https://github.com/amarh-ayman](https://github.com/amarh-ayman).
+ This site was built using [https://github.com/amarh-ayman](https://github.com/amarh-ayman).
