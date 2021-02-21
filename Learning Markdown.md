@@ -21,7 +21,7 @@ Image |	!\[alt text](image.jpg)
 
 > ** Cool Thing**
 > 
->  if you want to deactive the command  **JUST** put slash \  before ,So that the command appear as a paragraph , and your summarization page show ***perfect***
+>  if you want to deactive the command  **JUST** put slash \  before ,So that the command appear as a paragraph ,and your summarization page show ***perfect***
 > for example :
 > 
 >   - in the link:   
