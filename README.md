@@ -1,4 +1,5 @@
-# GROWTH MINDSET
+# ***GROWTH MINDSET***
+
 
 
 ![GitHub Logo](https://g.foolcdn.com/editorial/images/502630/gettyimages-956031274.jpg)
@@ -12,7 +13,7 @@ If we have a “fixed mindset,” we may shy away from challenges because we do 
 If we have a “growth mindset,” we enjoy challenges, despite the risk, usually because we value learning and growth more than others thinking we know what we’re doing. 
 And because we’re always trying new things, we often don’t know what we’re doing.
 
-##  Key Differences Between “Fixed” and “Growth” Mindset:
+##  **Key Differences Between “Fixed” and “Growth” Mindset:**
 1. Effort
 2. Challenge 
     - how to think for fix problem you face,Just get out of the box .Get step behind and make a solution.
