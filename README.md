@@ -73,7 +73,7 @@ these success people have  a passion for learning, talk to them and learn ,the g
  don’t make jealous blind you, these success people have  a passion for learning, talk to them and learn ,the growth mindset encourages you to see the success of coworkers as an inspiration.**
 
 
-
+😆
 
 
 
