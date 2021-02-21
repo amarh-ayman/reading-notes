@@ -1,8 +1,7 @@
 # What is Markdown?
 
 ##### Markdown is a way to style text on the web.You control the display of the document; formatting words as bold or italic, adding images, and creating lists are just a few of the things we can do with Markdown. 
-##### Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *
-
+##### Mostly, Markdown is just regular text with a few non-alphabetic characters thrown in, like # or *.
 
 
 
@@ -26,18 +25,18 @@ Image |	!\[alt text](image.jpg)
 
 
 
-
 > ** Cool Thing**
 > 
 >  if you want to deactive the command  **JUST** put slash \  before ,so that the command appear as a paragraph , and your summarization page show ***perfect***
 > for example :
 > 
->  [title](https://www.example.com)     
->     \\\[title](https://www.example.com)
+>   - in the link:   
+>     - \[title](https://www.example.com)     
+>     - \\\[title](https://www.example.com)
 >
-> **bold text**
-> 
-> \\\*\\\*bold text**     
+>   - in the bold text:  
+>     - \*\*bold text**
+>     - \\\*\\\*bold text**     
 
 
 
