@@ -5,6 +5,7 @@ It allows you to show which remotes are currently connected, but also to add new
 
 
 ## Important Options
+
   * -v
   
     Shows URLs of remote repositories when listing your current remote connections. By default, listing remote repositories only shows you their shortnames (e.g. "origin"). Using the "-v" option, you will also see the remote's URLs in listings.
