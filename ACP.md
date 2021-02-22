@@ -1,12 +1,9 @@
 # ACP [Add ,Commit ,Push]
 
 ## Adding Git
-The git add command adds new or changed files in your working directory to the Git staging area.
+The git add command adds new or changed files in your working directory to the Git staging area ,which allows you to choose what you are going to commit. **git add** selects file, and moves it to the staging area, marking it for inclusion in the next commit. You can select all files, a directory, specific files, or even specific parts of a file for staging and commit.
 
-   - What Does Git Add Do?
-         - **git add** selects that file, and moves it to the staging area, marking it for inclusion in the next commit. You can select all files, a directory, specific files, or even specific parts of a file for staging and commit.
-
-   - How to Use git add
+   - How to Use git Add
        - Common usages and options for git add
             - git add <path>: Stage a specific directory or file
             - git add .: Stage all files (that are not listed in the .gitignore) in the entire repository
@@ -17,7 +14,7 @@ The git add command adds new or changed files in your working directory to the G
 ## Commit Git
 git commit creates a commit, which is like a snapshot of your repository and able to craft the history intentionally and safely
 
- - How to Use git commit
+ - How to Use git Commit
     - **git commit**: This starts the commit process, your default text editor will be opened for you to create the commit message. 
     - **git commit -m "descriptive commit message"**: This starts the commit process, and allows you to include the commit message at the same time.
     - **git commit -am "descriptive commit message"**: In addition to including the commit message, this option allows you to skip the staging phase. The addition of -a will automatically stage any files that are already being tracked by Git (changes to files that you've committed before).
@@ -35,7 +32,7 @@ git commit creates a commit, which is like a snapshot of your repository and abl
 
 there is a command use usually before git push, called git pull, is for update your local branch with any new changes that may have been pushed to the remote from other contributors; this will reduce the amount of merge conflicts you create on GitHub
 
-   - Common usages and options for git push
+   - How to Use git Push
         - **git push -f**: Force a push that would otherwise be blocked, usually because it will delete or overwrite existing commits (Use with caution!)
         - **git push -u origin [branch]**: Useful when pushing a new branch, this creates an upstream tracking branch with a lasting relationship to your local branch
         - **git push --all**: Push all branches
