@@ -1,13 +1,27 @@
 # Read 01
 
 # HTML 
+	Hyper Text Markup Language
 
 ## The Structure
+WHAT's Meaning of Structure ???!!
+
 ![structure_01](https://www.development-tutorial.com/my_images/what_basic_structure_web_page/structure.png)
+
+> as you see here, **the structre is HOW the page look like**  for the user off course 
+
+
 
 ![structure_02](https://th.bing.com/th/id/R5edcc52dd5289bfee68d65d602739b2f?rik=miTijXPyhG%2fpXw&riu=http%3a%2f%2fbarbaraambach.com%2fHTMLTutorials%2f02BoxModel%2fHTML.Structure.jpg&ehk=qbuRptCyiSBd0IPCMV1%2bZs3tF2NRBzUr3VBVJOSw1%2bA%3d&risl=&pid=ImgRaw)
 
+> This HOW the Structure for the developer , **the main code** *in simple*😇
+
 ![structure_03](https://th.bing.com/th/id/Ref0cf2b2a72524b07287aa93d72a809d?rik=4O7AYHjndUIPEg&riu=http%3a%2f%2ftutorial.techaltum.com%2fimages%2felement.png&ehk=XBdyrv%2fBOv%2fl30m6bgkNNnypcGoOiFAQJlDw6H6GVZY%3d&risl=&pid=ImgRaw)
+
+>In more specific ,HOW the tag's look like
+HTML consist of tag's , each tag have a purpose 
+[click here for more infomation about tag's](https://www.w3schools.com/TAGs/)
+
 ## PROCCESS AND DESIGN
 
 - For build a web page you must understand who your target audience is, why they would come to your site, what information they want to find and when they are likely to return. 
@@ -124,3 +138,13 @@ as
 
 ![if-else](https://beginnersbook.com/wp-content/uploads/2017/08/If_else_flow_diagram-1.jpg)
 
+
+
+> * if you want to test your knowledge, visit **[ this site](https://www.w3schools.com/quiztest/quiztest.asp?qtest=HTML)**
+
+
+# *This article helpful*
+
+- [x] YES
+
+- [ ] NO
