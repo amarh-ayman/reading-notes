@@ -7,10 +7,10 @@
 
 # Table of Content 
 
-# | topic
+num | topic
 --- | ---
-1 |[Lab 01](https://amarh-ayman.github.io/reading-notes/code_201/code%20201%20Reading%20Notes)
-__|[Read 01](https://amarh-ayman.github.io/reading-notes/code_201/class_01)
+01 | [Lab 01](https://amarh-ayman.github.io/reading-notes/code_201/code%20201%20Reading%20Notes)
+02 | [Read 01](https://amarh-ayman.github.io/reading-notes/code_201/class_01)
 
 > # Contact info
 Email : Amarah Abusohyon
