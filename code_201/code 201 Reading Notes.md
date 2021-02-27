@@ -13,7 +13,7 @@ num | topic
 02 | [Read 01](https://amarh-ayman.github.io/reading-notes/code_201/class_01)
 
 > # Contact info
-Email : [Amarah Abusohyon](amarhbishtawi@gmail.com) 
+Email : Amarah Abusohyon
     - amarhbishtawi@gmail.com
 
 ![img](https://toppng.com/public/uploads/preview/bamboo-drawing-chibi-nerd-cute-chibi-girl-11563052039ttzlbsjyxj.png)
