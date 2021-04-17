@@ -39,3 +39,23 @@ If a more complex layout presents itself, people often reach for a grid framewor
 for more information [visit this site](https://css-tricks.com/snippets/css/complete-guide-grid/)
 <br><br>
 ![](https://codingthesmartway.com/wp-content/uploads/2017/12/01_CSS_Grid_Overview.png)
+
+<br><br>
+
+## CSS Floats Explained By Riding An Escalator (summary)
+
+- Your `<div>` is almost perfect. You decide to introduce some floats to fix the relationship between a few elements.
+- There is a left flow and a right flow, and the elements that are not floated can easily fill the space that is not taken by the floated elements.
+- the `float` property also gives an indication of an element’s relationship to surrounding elements.
+- `Clear` : allows elements to specify where they should align in comparison to the floated elements.
+- One of the most frequent uses of the clear property is `“clear:both”`. This allows you to reset the flow of elements, as opposed to continuing to maintain a right, left and normal flow.
+
+## SMACSS Official Documentation (summary)
+
+> SMACSS refers to scalable and modular architecture for css
+
+> SMACSS is becoming one of the most useful contributions to front-end discussions in years
+
+**_It is a flexible guide for developing sites_**
+
+- SMACSS is more style guide than rigid framework. There is no library within here for you to download or install. There is no git repository for you to clone. SMACSS is a way to examine your design process and as a way to fit those rigid frameworks into a flexible thought process. It is an attempt to document a consistent approach to site development when using CSS.
