@@ -2,8 +2,8 @@
 
 Links are the defining feature of the web because they allow you to move from one web page to another — enabling the very idea of browsing or surfing.<br><br>
 
-
 ### You will commonly come across the following types of links:
+
 - Links from one website to another
 - Links from one page to another on the same website
 - Links from one part of a web page to another part of the same page
@@ -16,14 +16,15 @@ Links are the defining feature of the web because they allow you to move from on
 
 ## EXAMPLE
 
-\<a href="/about/about_team.htm">team\</a> 
+\<a href="/about/about_team.htm">team\</a>
 <br><br>
+
 - Links are created using the \<a> element.
 - The \<a> element uses the href attribute to indicate the page you are linking to.
 - If you are linking to a page within your own site, it is best to use relative links rather than qualified URLs.
 - You can create links to open email programs with an email address in the "to" field.
 - You can use the id attribute to target elements within a page that can be linked to.
-<br><br>
+  <br><br>
 
 # LAYOUT
 
@@ -35,46 +36,46 @@ Links are the defining feature of the web because they allow you to move from on
 - Grids help create professional and flexible designs.
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
-<br><br>
-![img](https://th.bing.com/th/id/R9369be43ae1eaac13467a6b6cdaf7233?rik=1lgsbL%2fNCtX4DA&riu=http%3a%2f%2fm5designstudio.com%2fwp-content%2fuploads%2f2013%2f02%2fcss-layout-using-floats.png&ehk=18wVKcDIjjsmSTNLuOUNjmVd3ERrYipGxmjXa1ocSoA%3d&risl=&pid=ImgRaw)
+  <br><br>
+  ![img](https://th.bing.com/th/id/R9369be43ae1eaac13467a6b6cdaf7233?rik=1lgsbL%2fNCtX4DA&riu=http%3a%2f%2fm5designstudio.com%2fwp-content%2fuploads%2f2013%2f02%2fcss-layout-using-floats.png&ehk=18wVKcDIjjsmSTNLuOUNjmVd3ERrYipGxmjXa1ocSoA%3d&risl=&pid=ImgRaw)
 
 There are **tons** of different layout designs to choose from. However, the structure above, is one of the most common.
 
 <br><br>
+
 - Header
   - A header is usually located at the top of the website
 - Navigation Bar
   - A navigation bar contains a list of links to help visitors navigating through your website
 - Content
-  - The layout in this section, often depends on the target users. 
+  - The layout in this section, often depends on the target users.
 - Footer
   - The footer is placed at the bottom of your page. It often contains information like copyright and contact info
 
-
 <br><br>
 
-
 # WHAT IS A FUNCTION?
+
 **Functions** let you group a series of statements together to perform a
 specific task. If different parts of a script **repeat the same task**, you can
-**reuse** the function (rather than repeating the same set of statements). 
+**reuse** the function (rather than repeating the same set of statements).
 
-for making functions you need to make declarations first by give it name and open braces then write any statements needed 
+for making functions you need to make declarations first by give it name and open braces then write any statements needed
 as
 
-   - function sayHello(  ){
-     document.write('Hello!');  }
+- function sayHello( ){
+  document.write('Hello!'); }
+
 
     # Calling Functions
 
-- is a process used if you need the code you wrote or any function in the system 
+- is a process used if you need the code you wrote or any function in the system
 
--  you can call it by :
-     - sayHello( )
-         - write the name of the function
+- you can call it by :
+  - sayHello( )
+    - write the name of the function
 
 > so for make the process more easier on you at CALLING Function just make the name of it simple .
-
 
 # OBJECT'S
 
@@ -83,6 +84,7 @@ In JavaScript, an object is a standalone entity, with properties and type. Compa
 A JavaScript object has properties associated with it. A property of an object can be explained as a variable that is attached to the object. Object properties are basically the same as ordinary JavaScript variables, except for the attachment to objects. The properties of an object define the characteristics of the object. You access the properties of an object with a simple dot-notation:
 
 ### objectName.propertyName
+
 <br><br>
 
 Like all JavaScript variables, both the object name (which could be a normal variable) and property name are case sensitive. You can define a property by assigning it a value. For example, let's create an object named myCar and give it properties named make, model, and year as follows:
@@ -95,14 +97,15 @@ myCar.year = 1969;<br>
 
 # 6 Reasons for Pair Programming
 
-Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce. 
+Iterative loops. Code reviews. Fast feedback. Error checking and linting. These are software engineering practices that have proven to dramatically improve the quality of code developers produce.
 
 pair programming commonly involves two roles: the Driver and the Navigator. The Driver is the programmer who is typing and the only one whose hands are on the keyboard. Handling the “mechanics” of coding,
 
- The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
+The Navigator uses their words to guide the Driver but does not provide any direct input to the computer.
 
- Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
+Pair programming touches on all four skills: developers explain out loud what the code should do, listen to others’ guidance, read code that others have written, and write code themselves.
 <br>
+
 1. Greater efficiency
 2. Engaged collaboration
 3. Learning from fellow students

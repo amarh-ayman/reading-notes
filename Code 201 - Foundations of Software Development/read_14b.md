@@ -1,7 +1,10 @@
 # What Google Learned About Teams
+
 **‘As long as everyone got a chance to talk, the team did well. But if only one person or a small group spoke all the time, the collective intelligence declined.**
 <br><br>
+
 #### We should not focus only on efficiency but on life at work because the work is more than just labor.<br><br>
+
 **How to Build a Perfect Team**
 
 - The War on Meetings
@@ -25,9 +28,11 @@
 - What interested the researchers most, however, was that teams that did well on one assignment usually did well on all the others.
 
 - However, establishing psychological safety is, by its very nature, somewhat messy and difficult to implement.
-<br><br>
+  <br><br>
+
 #### The key characteristics of ‘enhanced teams’
- - Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
+
+- Psychological safety: Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
 
 - Dependability: Everyone completes quality work on time.
 

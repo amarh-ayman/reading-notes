@@ -8,8 +8,8 @@
 
 - Web storage is per origin (per domain and protocol). All pages, from one origin, can store and access the same data.
 
-
 # HTML Web Storage Objects
+
 HTML web storage provides two objects for storing data on the client:
 
 - window.localStorage - stores data with no expiration date
