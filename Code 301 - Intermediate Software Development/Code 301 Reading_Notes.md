@@ -8,7 +8,8 @@
 
 | num | topic's                                                                                                              |
 | --- | -------------------------------------------------------------------------------------------------------------------- |
-| 00  | [Lab 01](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_01) |
+| 01  | [Lab 01](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_01) |
+| 02  | [Lab 02](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_02) |
 
 > # Contact info
 >
