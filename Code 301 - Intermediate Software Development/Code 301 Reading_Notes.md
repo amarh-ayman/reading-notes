@@ -16,7 +16,7 @@
 > # Contact info
 >
 > Email : Amarah Abusohyon
-
-    - amarhbishtawi@gmail.com
+>
+> amarhbishtawi@gmail.com
 
 ![img](https://toppng.com/public/uploads/preview/bamboo-drawing-chibi-nerd-cute-chibi-girl-11563052039ttzlbsjyxj.png)
