@@ -13,6 +13,7 @@
 | 03  | [Responsive Web Design and Regular Expressions(CSS)](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_03)   |
 | 04  | [Responsive Web Design and Regular Expressions (Grid)](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_04) |
 | 05  | [Heroku Deployment](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_05)                                    |
+| 06  | [ Node, Express, and APIs](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_06)                             |
 
 > # Contact info
 >
