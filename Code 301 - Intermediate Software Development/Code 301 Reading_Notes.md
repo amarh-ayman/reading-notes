@@ -16,6 +16,7 @@
 | 06  | [ Node, Express, and APIs](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_06)                             |
 | 07  | [ APIs continued](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_07)                                      |
 | 08  | [ SQL](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_08)                                                 |
+| 09  | [ Refactoring](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_09)                                         |
 
 > # Contact info
 >
