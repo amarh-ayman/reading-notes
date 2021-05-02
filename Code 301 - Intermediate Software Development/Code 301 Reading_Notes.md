@@ -19,6 +19,7 @@
 | 09  | [ Refactoring](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_09)                                         |
 | 10  | [ The Call Stack and Debugging](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_10)                        |
 | 11  | [ EJS](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_11)                                                 |
+| 12  | [EJS Partials](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_12)                                         |
 
 > # Contact info
 >
