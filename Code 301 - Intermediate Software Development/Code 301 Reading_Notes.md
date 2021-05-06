@@ -22,6 +22,7 @@
 | 12  | [EJS Partials](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_12)                                         |
 | 13  | [Update/Delete](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_13)                                        |
 | 14  | [ DB Normalization](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_14a)                                   |
+| 15  | [ Diversity and Inclusion](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_15)                             |
 
 > # Contact info
 >
