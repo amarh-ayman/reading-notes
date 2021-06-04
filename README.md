@@ -4,7 +4,7 @@
 
 <br>
 
-**enjoy reading and cutting wha you want**😆
+**enjoy reading and cutting what you want**😆
 <br>
 <br>
 
