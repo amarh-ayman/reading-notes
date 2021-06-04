@@ -22,11 +22,3 @@
 | 13  | [READ 13](https://amarh-ayman.github.io/reading-notes/Code%20201%20-%20Foundations%20of%20Software%20Development/read_13)                     |
 | 14A | [READ 14a](https://amarh-ayman.github.io/reading-notes/Code%20201%20-%20Foundations%20of%20Software%20Development/read_14a)                   |
 | 14B | [READ 14b](https://amarh-ayman.github.io/reading-notes/Code%20201%20-%20Foundations%20of%20Software%20Development/read_14b)                   |
-
-> # Contact info
->
-> Email : Amarah Abusohyon
-
-    - amarhbishtawi@gmail.com
-
-![img](https://toppng.com/public/uploads/preview/bamboo-drawing-chibi-nerd-cute-chibi-girl-11563052039ttzlbsjyxj.png)

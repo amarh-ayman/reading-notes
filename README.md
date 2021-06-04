@@ -1,25 +1,27 @@
-# ***GROWTH MINDSET***
+# Hi there 👾
 
+### i hope you see my reading notes helpful as i see them
 
+<br>
 
-![GitHub Logo](https://g.foolcdn.com/editorial/images/502630/gettyimages-956031274.jpg)
+**enjoy reading and cutting wha you want**😆
+<br>
+<br>
 
+| topic | link's                                                                                                                                                                                |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 01    | [Code 102 - Intro to Software Development](https://amarh-ayman.github.io/reading-notes/Code%20102%20-%20Intro%20to%20Software%20Development/code%20102%20Reading%20Notes)             |
+| 02    | [Code 201 - Foundations of Software Development](https://amarh-ayman.github.io/reading-notes/Code%20201%20-%20Foundations%20of%20Software%20Development/code%20201%20Reading%20Notes) |
+| 03    | [Code 301 - Intermediate Software Development](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/Code%20301%20Reading_Notes)         |
+| 04    | [Code 401 - Advanced Software Development](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/Code%20401%20Reading_Notes)                 |
 
-**A growth mindset is simply the belief that our basic abilities can be developed and improved through dedication and hard work. It's just that without a growth mindset, we don't exert the required effort and so we remain perpetually stuck.**
+<br><br>
 
-Growth Mindset in short is getting out of the box 
-If we have a “fixed mindset,” we may shy away from challenges because we do not want to feel embarrassed or humiliated in front of others—who does, right?! 
+> # Contact info
+>
+> Email : Amarah Abusohyon
+>
+> amarhbishtawi@gmail.com
 
-we can develope ourselves by effort, face challenge, get feedback from rhe mistakes , obtacles and dont lost focus. 
-
-
-
-
-> - REMNDER:  📣
-
-    Growth Mindset in short is getting out of the box , don’t shame of learning so ask and search , don’t stop and give up  💪🏻  ;focus take breath and think 
-Don’t fight other success people , fight your self to improve your self  
-
-
-
- This site was built using [https://github.com/amarh-ayman](https://github.com/amarh-ayman).
+<br><br>
+![img](https://toppng.com/public/uploads/preview/bamboo-drawing-chibi-nerd-cute-chibi-girl-11563052039ttzlbsjyxj.png)

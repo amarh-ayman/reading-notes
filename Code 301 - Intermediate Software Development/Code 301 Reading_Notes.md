@@ -8,6 +8,7 @@
 
 | lab | topic's                                                                                                                                                            |
 | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 00  | [Lab01](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development)                                                        |
 | 01  | [Responsive Web Design](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_01)                                |
 | 02  | [JQuery](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_02)                                               |
 | 03  | [Responsive Web Design and Regular Expressions(CSS)](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_03)   |
@@ -23,11 +24,3 @@
 | 13  | [Update/Delete](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_13)                                        |
 | 14  | [ DB Normalization](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_14a)                                   |
 | 15  | [ Diversity and Inclusion](https://amarh-ayman.github.io/reading-notes/Code%20301%20-%20Intermediate%20Software%20Development/read_15)                             |
-
-> # Contact info
->
-> Email : Amarah Abusohyon
->
-> amarhbishtawi@gmail.com
-
-![img](https://toppng.com/public/uploads/preview/bamboo-drawing-chibi-nerd-cute-chibi-girl-11563052039ttzlbsjyxj.png)
