@@ -68,3 +68,5 @@ recursive calculation of Fibonacci numbers
 - O(n2). Example: A slow sorting algorithm, like selection sort.
 
 - O(n!). Example: A really slow algorithm, like travelling salesperson.
+  <br><br>
+  ![complexity](https://www.freecodecamp.org/news/content/images/2020/03/31781165-723a053c-b500-11e7-937c-7b33db281efe.png)
