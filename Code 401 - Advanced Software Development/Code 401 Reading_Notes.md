@@ -12,3 +12,4 @@
 | 01  | [Big O & Pain and suffering](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_01) |
 | 02  | [Testing and Modules](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_02)        |
 | 03  | [FileIO & Exceptions](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_03)        |
+| 03  | [Classes and Objects](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_04)        |
