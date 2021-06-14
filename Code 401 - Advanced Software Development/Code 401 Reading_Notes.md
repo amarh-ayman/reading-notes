@@ -16,3 +16,4 @@
 | 05  | [Linked Lists](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_05)               |
 | 06  | [Game of Greed 1](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_06)            |
 | 07  | [Game of Greed 2](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_07)            |
+| 08  | [Game of Greed 3](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_08)            |
