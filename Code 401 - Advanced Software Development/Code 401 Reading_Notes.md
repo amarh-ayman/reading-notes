@@ -18,3 +18,4 @@
 | 07  | [Game of Greed 2](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_07)            |
 | 08  | [Game of Greed 3](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_08)            |
 | 09  | [Game of Greed 4](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_09)            |
+| 10  | [Stacks & Queues](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_10)            |
