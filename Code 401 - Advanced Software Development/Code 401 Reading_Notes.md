@@ -22,3 +22,4 @@
 | 11  | [Data Analysis](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_11)              |
 | 12  | [Pandas](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_12)                     |
 | 13  | [Linear Regression](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_13)          |
+| 14  | [Data Visualization](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_14)         |
