@@ -24,3 +24,4 @@
 | 13  | [Linear Regression](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_13)          |
 | 14  | [Data Visualization](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_14)         |
 | 15  | [Trees](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_15)                      |
+| 16  | [Machine Learning Intro](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_16)     |
