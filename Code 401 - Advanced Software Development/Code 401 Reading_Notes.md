@@ -32,3 +32,4 @@
 | 21  | [Django Models](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_21)              |
 | 22  | [Django CRUD and Forms](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_22)      |
 | 23  | [Custom User Model](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_23)          |
+| 24  | [Hash Tables](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_24)                |
