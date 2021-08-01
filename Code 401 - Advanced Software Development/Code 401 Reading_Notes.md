@@ -37,3 +37,6 @@
 | 26  | [Permissions](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_26)                         |
 | 27  | [ Authentication & Production Server](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_27) |
 | 28  | [API Deployment](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_28)                      |
+| 29  | [Graphs](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_29)                              |
+| 30  | [DSA Review](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_30)                          |
+| 31  | [React 1](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_31)                             |
