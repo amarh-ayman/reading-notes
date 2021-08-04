@@ -41,3 +41,4 @@
 | 30  | [DSA Review](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_30)                          |
 | 31  | [React 1](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_31)                             |
 | 32  | [React 2](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_32)                             |
+| 33  | [React 3,Next js](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_33)                     |
