@@ -42,3 +42,6 @@
 | 31  | [React 1](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_31)                             |
 | 32  | [React 2](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_32)                             |
 | 33  | [React 3,Next js](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_33)                     |
+| 34  | [Deployment](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_34)                          |
+| 35  | [Pythonsims](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_35)                          |
+| 36  | [Code of Ethics](https://amarh-ayman.github.io/reading-notes/Code%20401%20-%20Advanced%20Software%20Development/read_36)                      |
