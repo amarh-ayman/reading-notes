@@ -1,4 +1,4 @@
-# Code of Ethics
+# **Code of Ethics**
 
 Computing professionals' actions change the world. To act responsibly, they should reflect upon the wider impacts of their work, consistently supporting the public good. The ACM Code of Ethics and Professional Conduct ("the Code") expresses the conscience of the profession.
 
